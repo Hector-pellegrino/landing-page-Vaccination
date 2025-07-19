@@ -1,4 +1,4 @@
-## Olá, este é apenas um projeto teste, para desenvolver minhas habilidades em Next.Js
+## Olá! Este é um projeto de teste criado para aprimorar minhas habilidades com Next.js.
 
 ### Caso queira clonar o código siga os seguintes passos: 
 

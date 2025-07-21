@@ -12,7 +12,7 @@ export default function result() {
         Check your COVID-19 result on our Database
       </p>
       <form action="" className="pt-[21px] px-[12px]">
-        <div className="grid grid-cols-1 gap-[20px] text-white ml-[93px] mr-[93px]
+        <div className="grid grid-cols-1 gap-[20px] text-white xl:ml-[93px] xl:mr-[93px]
         lg:grid-cols-3
         ">
           <input
@@ -45,7 +45,7 @@ export default function result() {
             Check
           </button>
         </div>
-        <div className="pb-[32px] ml-[93px] mr-[93px] ">
+        <div className="pb-[32px] xl:ml-[93px] xl:mr-[93px] ">
           <div className="bg-[#C4C4C4]/5 mt-[48px] py-[15px] px-[25px] rounded-lg flex justify-center left-[93px]">
             <p className="text-[10px] font-bold text-[#17C2EC] text-center
             md:text-[14px]

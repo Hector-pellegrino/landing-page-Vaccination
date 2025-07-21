@@ -5,7 +5,7 @@ import Medicos from "../../../public//medicos.png";
 import Image from "next/image";
 export default function Hero() {
   return (
-    <section className="pt-[100px] bg-[#0B153C]">
+    <section className="pt-[100px]">
       <div className="mx-[35px] lg:mx-[70px] md:ml-[50px] md:mr-0">
         <div className="xl:flex justify-between">
           <div>

@@ -6,7 +6,7 @@ import shield from "../../../public/shield.png";
 export default function Schedule() {
   return (
     <section
-      className="px-[35px] bg-[#0B153C]
+      className="px-[35px]
         md:px-[50px]
         lg:px-[70px]
         "
@@ -31,7 +31,7 @@ export default function Schedule() {
         <div
           className="bg-[#C4C4C4]/10 rounded-lg grid grid-cols-1
       md:grid-cols-2  
-      lg:grid-cols-4
+      xl:grid-cols-4
       "
         >
           <div className="flex mb-[15px] mt-[20px] gap-[10px] ml-[10px]

@@ -6,32 +6,32 @@ import Sinovac from "../../../public/sinovac-logo.png"
 
 export default function advertising() {
     return(
-        <section className="bg-white flex my-[25px] mx-[5px] gap-[12px] items-center justify-center">
+        <section className="bg-white flex py-[25px] px-[5px] gap-[12px] items-center justify-center">
             <Image
             className="w-[72px] h-auto
             md:w-[150px]
-            lg:w-auto"
+            xl:w-auto"
             src={Moderna}
             alt="logo da Moderna"
             />
             <Image
             className="w-[72px] h-auto
             md:w-[150px]
-            lg:w-auto"
+            xl:w-auto"
             src={Pfizer}
             alt="logo da Pfizer"
             />
             <Image
             className="w-[72px] h-auto
             md:w-[150px]
-            lg:w-auto"
+            xl:w-auto"
             src={AstraZeneca}
             alt="logo da AstraZeneca"
             />
             <Image
             className="w-[72px] h-auto
             md:w-[150px]
-            lg:w-auto"
+            xl:w-auto"
             src={Sinovac}
             alt="logo da Sinovac"
             />

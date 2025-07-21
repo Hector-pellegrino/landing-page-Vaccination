@@ -81,7 +81,7 @@ export default function Schedule() {
 
           <a
             href=""
-            className="text-white font-bold text-[14px] flex items-center justify-center bg-[#17C2EC] w-[150px] h-[50px] ml-[10px] rounded-md
+            className="text-white font-bold text-[14px] flex items-center justify-center bg-[#17C2EC] w-[150px] h-[50px] ml-[10px] rounded-md mb-[10px]
             md:text-[20px] md:w-[254px] md:h-[64px]
             lg:mt-[55px]"
           >
